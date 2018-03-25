@@ -11,6 +11,11 @@ To install all the dependencies run
 ```
 npm install
 ```
+Then to run the code locally run
+```
+node express.js
+```
+Then go to the url that is displayed in the console
 
 <h3>Technologies Used</h3>
 <b>Front-end:</b><br/>
