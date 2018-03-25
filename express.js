@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
   });
 
 app.listen(process.env.PORT || 8080, () => {
-    var curPort = process.env.port;
+    var curPort = process.env.PORT;
     if (curPort === undefined) {
         curPort = "localhost://8080"
     }
