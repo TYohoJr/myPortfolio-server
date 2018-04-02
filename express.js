@@ -22,8 +22,8 @@ app.listen(process.env.PORT || 8080, () => {
         client.messages.create({
             to: `+16309622093`,
             from: '+12314653515',
-            body: `Profile view on ${d.toDateString}`
+            body: `Profile view on ${d}`
         });
-        console.log(`listening on ${curPort} at ${d.toDateString}`)
+        console.log(`listening on ${curPort} at ${d}`)
     }
 })
