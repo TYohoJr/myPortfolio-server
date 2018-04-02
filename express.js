@@ -15,6 +15,7 @@ app.get('/', function (req, res) {
 app.listen(process.env.PORT || 8080, () => {
     var curPort = process.env.PORT;
     if (curPort === undefined) {
+        console.log(`listening on localhost://8080`)
         curPort = "localhost://8080"
     } else {
         client.messages.create({
