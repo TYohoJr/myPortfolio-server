@@ -18,7 +18,7 @@ app.listen(process.env.PORT || 8080, () => {
         console.log(`listening on localhost://8080`)
         curPort = "localhost://8080"
     } else {
-        var d = new Date();
+        let d = new Date();
         client.messages.create({
             to: `+16309622093`,
             from: '+12314653515',
