@@ -3,6 +3,7 @@ var app = express();
 var path = require('path')
 require('dotenv').config();
 var twilio = require('twilio');
+var { DateTime } = require('luxon');
 
 app.use(express.static(path.join(__dirname, "build")));
 
@@ -21,7 +22,7 @@ app.listen(process.env.PORT || 8080, () => {
         client.messages.create({
             to: `+16309622093`,
             from: '+12314653515',
-            body: `Profile view on ${new Date()}`
+            body: `Profile view on ${DateTime.local()}`
         });
         console.log(`listening on ${curPort}`)
     }
