@@ -1,12 +1,13 @@
 {
   "main.css": "static/css/main.07d800cc.css",
   "main.css.map": "static/css/main.07d800cc.css.map",
-  "main.js": "static/js/main.2984e14f.js",
-  "main.js.map": "static/js/main.2984e14f.js.map",
+  "main.js": "static/js/main.cb06891f.js",
+  "main.js.map": "static/js/main.cb06891f.js.map",
   "static/media/BakerySite.png": "static/media/BakerySite.d37f9ab9.png",
   "static/media/BikeApp.png": "static/media/BikeApp.59d74d4a.png",
   "static/media/Dineamite.png": "static/media/Dineamite.280cf41c.png",
   "static/media/FoodLog.png": "static/media/FoodLog.fcfb1e7d.png",
   "static/media/GroceryList.png": "static/media/GroceryList.85b2cbc5.png",
-  "static/media/WeatherApp.png": "static/media/WeatherApp.4fa933f2.png"
+  "static/media/WeatherApp.png": "static/media/WeatherApp.4fa933f2.png",
+  "static/media/fb-pic.jpg": "static/media/fb-pic.57a829c0.jpg"
 }
