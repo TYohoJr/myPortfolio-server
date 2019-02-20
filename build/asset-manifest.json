@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.a7bf734d.chunk.css",
-  "main.js": "/static/js/main.6deaa7f9.chunk.js",
-  "main.js.map": "/static/js/main.6deaa7f9.chunk.js.map",
+  "main.js": "/static/js/main.1b58e344.chunk.js",
+  "main.js.map": "/static/js/main.1b58e344.chunk.js.map",
   "static/css/1.04864cd7.chunk.css": "/static/css/1.04864cd7.chunk.css",
   "static/js/1.255cf038.chunk.js": "/static/js/1.255cf038.chunk.js",
   "static/js/1.255cf038.chunk.js.map": "/static/js/1.255cf038.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/GroceryList.png": "/static/media/GroceryList.85b2cbc5.png",
   "static/media/BakerySite.png": "/static/media/BakerySite.d37f9ab9.png",
   "static/media/BikeApp.png": "/static/media/BikeApp.59d74d4a.png",
-  "static/css/1.04864cd7.chunk.css.map": "/static/css/1.04864cd7.chunk.css.map",
   "static/css/main.a7bf734d.chunk.css.map": "/static/css/main.a7bf734d.chunk.css.map",
+  "static/css/1.04864cd7.chunk.css.map": "/static/css/1.04864cd7.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.e31956732bde3679b9f4a265aca3f794.js": "/precache-manifest.e31956732bde3679b9f4a265aca3f794.js",
+  "precache-manifest.e79d02646647905a44d357cf2b329001.js": "/precache-manifest.e79d02646647905a44d357cf2b329001.js",
   "service-worker.js": "/service-worker.js"
 }

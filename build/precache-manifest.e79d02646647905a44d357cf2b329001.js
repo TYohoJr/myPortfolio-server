@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/BikeApp.59d74d4a.png"
   },
   {
-    "revision": "6deaa7f92beceeff3cff",
+    "revision": "1b58e34487feedd7ede2",
     "url": "/static/css/main.a7bf734d.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/FoodLog.fcfb1e7d.png"
   },
   {
-    "revision": "6deaa7f92beceeff3cff",
-    "url": "/static/js/main.6deaa7f9.chunk.js"
+    "revision": "1b58e34487feedd7ede2",
+    "url": "/static/js/main.1b58e344.chunk.js"
   },
   {
     "revision": "280cf41cd210142a83aeafc3eb46feb5",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.04864cd7.chunk.css"
   },
   {
-    "revision": "8aa02b245ee9c058795fb1b5231fb8d0",
+    "revision": "62ddacbe195bd59734361af5011f6f24",
     "url": "/index.html"
   }
 ];
