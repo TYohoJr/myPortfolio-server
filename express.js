@@ -6,9 +6,8 @@ var twilio = require('twilio');
 
 app.use(express.static(path.join(__dirname, "build")));
 
-var client = new twilio(`${process.env.TW_SID}`, `${process.env.TW_TOKEN}`);
-
 app.get('/', function (req, res) {
+    console.log(req)
     res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
