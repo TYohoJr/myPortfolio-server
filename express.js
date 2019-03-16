@@ -7,7 +7,7 @@ var twilio = require('twilio');
 app.use(express.static(path.join(__dirname, "build")));
 
 app.get('/', function (req, res) {
-    console.log(req)
+    console.log('build file sent')
     res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
