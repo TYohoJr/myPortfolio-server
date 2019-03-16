@@ -23,7 +23,3 @@ app.listen(process.env.PORT || 8080, () => {
         console.log(`listening on ${curPort} at ${d}`)
     }
 })
-
-app.post('/siteVisit', (req, res) => {
-    console.log(`Site view on ${req.body.date}`)
-})
