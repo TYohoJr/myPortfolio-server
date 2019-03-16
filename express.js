@@ -2,8 +2,11 @@ var express = require("express");
 var app = express();
 var path = require('path')
 require('dotenv').config();
+var bodyParser = require('body-parser');
 
 app.use(express.static(path.join(__dirname, "build")));
+app.use(bodyParser.json({ type: 'application/json' }));
+app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get('/', function (req, res) {
     console.log(`${req.body.request_id} Unique????`)
@@ -19,4 +22,8 @@ app.listen(process.env.PORT || 8080, () => {
         let d = new Date();
         console.log(`listening on ${curPort} at ${d}`)
     }
+})
+
+app.post('/siteVisit', (req, res) => {
+    console.log(`Site view on ${req.body.date}`)
 })
