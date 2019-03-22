@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/static/media/fb-pic.57a829c0.jpg"
   },
   {
-    "revision": "8813213d8e1189a2d4b5",
-    "url": "/static/css/main.65ef0251.chunk.css"
+    "revision": "a4490871e9a47a865119",
+    "url": "/static/css/main.f73fe116.chunk.css"
   },
   {
-    "revision": "443ff35be8c3fa806d2aa6bce01f2cae",
-    "url": "/static/media/EyeTracker.443ff35b.png"
+    "revision": "3f34f7a5aa7250e22819249d9f5ddbac",
+    "url": "/static/media/WeightTracker.3f34f7a5.png"
   },
   {
-    "revision": "244f44c2eaf3fb6c6652",
-    "url": "/static/js/1.244f44c2.chunk.js"
+    "revision": "5939f3e03452bf4545e2",
+    "url": "/static/js/1.5939f3e0.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/Dineamite.280cf41c.png"
   },
   {
-    "revision": "8813213d8e1189a2d4b5",
-    "url": "/static/js/main.8813213d.chunk.js"
+    "revision": "a4490871e9a47a865119",
+    "url": "/static/js/main.a4490871.chunk.js"
   },
   {
     "revision": "4fa933f214e769289f7eb6c685af52e4",
@@ -48,11 +48,15 @@ self.__precacheManifest = [
     "url": "/static/media/BakerySite.d37f9ab9.png"
   },
   {
-    "revision": "244f44c2eaf3fb6c6652",
-    "url": "/static/css/1.eae31806.chunk.css"
+    "revision": "443ff35be8c3fa806d2aa6bce01f2cae",
+    "url": "/static/media/EyeTracker.443ff35b.png"
   },
   {
-    "revision": "17b0180594d15bb2bf732789b3336042",
+    "revision": "5939f3e03452bf4545e2",
+    "url": "/static/css/1.adc1decc.chunk.css"
+  },
+  {
+    "revision": "aeb4b29ee5f6e2f42f9178f9a7f28eb4",
     "url": "/index.html"
   }
 ];
