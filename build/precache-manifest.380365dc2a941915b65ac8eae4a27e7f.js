@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/WeatherApp.4fa933f2.png"
   },
   {
-    "revision": "6d2b8fca587b4e1c19a4",
-    "url": "/static/css/main.f73fe116.chunk.css"
+    "revision": "b41f431c229f718332f3",
+    "url": "/static/css/main.4567c5f4.chunk.css"
   },
   {
     "revision": "584eeabe85ac255304cb3df78337a89e",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/fb-pic.57a829c0.jpg"
   },
   {
-    "revision": "6d2b8fca587b4e1c19a4",
-    "url": "/static/js/main.6d2b8fca.chunk.js"
+    "revision": "b41f431c229f718332f3",
+    "url": "/static/js/main.b41f431c.chunk.js"
   },
   {
     "revision": "85b2cbc557491884679d81a6282b52db",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.f1e25cf3.chunk.css"
   },
   {
-    "revision": "737e38952877f4f2cfb378a7a7d5e261",
+    "revision": "de7d9a0669f12bc56a3975aa9c85ac16",
     "url": "/index.html"
   }
 ];
